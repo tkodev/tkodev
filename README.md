@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+See Projects tab to view repositories organized into categories! 
+
 <!--
 **tkodev/tkodev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
