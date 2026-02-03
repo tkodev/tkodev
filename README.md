@@ -7,4 +7,4 @@ Beyond code, I’m passionate about mentorship, team growth, and creating scalab
 - 🔭 I’m currently working on: full-stack platform projects at Badal.io
 - 💬 Ask me about: TypeScript, design systems, browser extensions, or leading engineering teams
 - 📫 How to reach me: [tony@tko.dev](mailto:tony@tko.dev) or [linkedin.com/in/tkodev](https://linkedin.com/in/tkodev)
-- ⚡ Fun fact: My portfolio was designed to reflect my soul — part engineer, part artist.
+- ⚡ Fun fact: My portfolio [tko.dev](https://www.tkodev/) was designed to reflect my soul — part engineer, part artist.
