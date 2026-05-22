@@ -1,10 +1,23 @@
-# Profile
+🌇 I spent three years designing buildings before I realized I was actually designing systems.
 
-I’m Tony Ko — a Senior Software Engineer and UI Designer with 9+ years of experience crafting high-performance, secure, and accessible software across web, mobile, browser extensions, and embedded systems. I’ve delivered impactful solutions for top brands like Aeroplan, Air Miles, and Toyota, blending deep technical knowledge with a strong sense of design and usability.
+That instinct has carried through everything since. Over 10+ years across Aeroplan, Loblaws Digital, Beyond MPD, and PayPower, operating at Staff scope: architecture, cross-team alignment, and hands-on delivery.
 
-Beyond code, I’m passionate about mentorship, team growth, and creating scalable systems that align with business goals. I lead with curiosity, ship with intention, and always aim to make things a little more beautiful, a little more performant, and a lot more human.
+Four projects define the range: 
 
-- 🔭 I’m currently working on: full-stack platform projects at Badal.io
-- 💬 Ask me about: TypeScript, design systems, browser extensions, or leading engineering teams
-- 📫 How to reach me: [tony@tko.dev](mailto:tony@tko.dev) or [linkedin.com/in/tkodev](https://linkedin.com/in/tkodev)
-- ⚡ Fun fact: My portfolio [tko.dev](https://www.tko.dev/) was designed to reflect my soul — part engineer, part artist.
+- Loblaws Digital Telemetry SDK (cross-platform OpenTelemetry, multi-LOB adoption, proposed to executives and shipped to production); 
+- Beyond MPD Olympus (real-time oil rig telemetry UI, 10,000+ datapoints at subsecond tolerance, PLC-connected event-driven backend); 
+- Aeroplan eStore (national loyalty redemption platform);
+- PayPower Mobile App (white-label React Native fintech app, end-to-end).
+
+Beyond delivery: founded Quantum Talks, led Quantum Mob's Vercel partnership from R&D to official close (Q1 2023), worked on RFPs for a major QSR chain, and drove hiring and coaching for SE1–Senior engineers.
+
+Environmental Design degree from OCAD University, three years of interior design practice. My design instincts are trained, not performed. I work AI-natively: Claude Code and Cursor daily.
+
+Open to Staff and Senior roles where engineering depth and design sensibility are both required.
+
+### Contacts
+
++ 1 647 300-9787
+TONY@TKO.DEV
+LINKEDIN.COM/IN/TKODEV
+WWW.TKO.DEV
