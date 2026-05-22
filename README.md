@@ -14,10 +14,3 @@ Beyond delivery: founded Quantum Talks, led Quantum Mob's Vercel partnership fro
 Environmental Design degree from OCAD University, three years of interior design practice. My design instincts are trained, not performed. I work AI-natively: Claude Code and Cursor daily.
 
 Open to Staff and Senior roles where engineering depth and design sensibility are both required.
-
-### Contacts
-
-- [+ 1 647 300-9787](tel:+16473009787)
-- [tony@tko.dev](mailto:tony@tko.dev)
-- [linkedin.com/in/tkodev](https://www.linkedin.com/in/tkodev)
-- [www.tko.dev](https://www.tko.dev)
