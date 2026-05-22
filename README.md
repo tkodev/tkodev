@@ -17,7 +17,7 @@ Open to Staff and Senior roles where engineering depth and design sensibility ar
 
 ### Contacts
 
-+ 1 647 300-9787
-TONY@TKO.DEV
-LINKEDIN.COM/IN/TKODEV
-WWW.TKO.DEV
+- [+ 1 647 300-9787](tel:+16473009787)
+- [tony@tko.dev](mailto:tony@tko.dev)
+- [linkedin.com/in/tkodev](https://www.linkedin.com/in/tkodev)
+- [www.tko.dev](https://www.tko.dev)
