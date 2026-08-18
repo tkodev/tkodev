@@ -11,6 +11,6 @@ Four projects define the range:
 
 Beyond delivery: founded Quantum Talks, led Quantum Mob's Vercel partnership from R&D to official close (Q1 2023), worked on RFPs for a major QSR chain, and drove hiring and coaching for SE1–Senior engineers.
 
-Environmental Design degree from OCAD University, three years of interior design practice. My design instincts are trained, not performed. I work AI-natively: Claude Code and Cursor daily.
+Environmental Design degree from OCAD University, three years of interior design practice. My design instincts are trained, not performed. I work AI-natively: Claude Code and Codex workflows spanning from design, PRD to execution.
 
 Open to Staff and Senior roles where engineering depth and design sensibility are both required.
